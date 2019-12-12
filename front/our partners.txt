@@ -1,0 +1,21 @@
+<div class="row">
+  <div class="col-3">    <img src="r3c1.jpg" href="#">
+</div>
+  <div class="col-3">    <img src="r3c2.jpg" href="#">
+</div>
+
+  <div class="col-3">    <img src="r3c3.jpg" href="#">
+</div>
+  <div class="col-3">    <img src="r3c4.jpg" href="#">
+</div>
+<div class="w-100 d-none d-md-block"></div>
+ <div class="col-3">    <img src="r4c1.jpg" href="#">
+</div>
+  <div class="col-3">    <img src="r4c2.jpg" href="#">
+</div>
+
+  <div class="col-3">    <img src="r4c3.jpg" href="#">
+</div>
+  <div class="col-3">    <img src="r4c4.jpg" href="#">
+</div>
+</div>

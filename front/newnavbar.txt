@@ -1,0 +1,18 @@
+<nav class="navbar navbar-expand-lg navbar-light sticky-top" style="background-color: #e3f2fd;">
+
+
+  <button class="navbar-toggler" type="button" class="btn btn-info" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <a class="navbar-brand" href="#"></a>
+    <img src="logo.jpg" width="50" height="50" alt="">
+  </a>
+  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    <div class="navbar-nav">
+      <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
+      <a class="nav-item nav-link" href="#">Ongoing project</a>
+      <a class="nav-item nav-link" href="#">Upcoming project</a>
+      <a class="nav-item nav-link" href="#" >Pricing</a>
+    </div>
+  </div>
+</nav>
