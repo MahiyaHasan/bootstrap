@@ -1,0 +1,7 @@
+.p-0 {
+  padding: 0 !important;
+}
+
+.row-eq-height {
+  display: flex;
+}
